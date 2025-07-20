@@ -1,0 +1,31 @@
+📄 Soup’s Mystery Boxes – Terms of Service
+Effective Date: July 20, 2025
+
+By using the “Soup’s Mystery Boxes” Discord bot, you agree to the following terms. If you do not agree, do not use the bot.
+
+1. Purpose
+This bot is designed for entertainment and community engagement. It allows users to purchase digital boxes for fun, using in-game currency in Torn (or similar systems).
+
+2. Usage Rules
+You may not abuse, exploit, or spam the bot.
+
+You may not use the bot for illegal activity.
+
+Do not attempt to reverse engineer or clone the bot.
+
+Admins have the right to ban or block any user from using the bot for any reason.
+
+3. Payment Terms
+All purchases made using the bot are for digital items. Payments are assumed to be in the Torn ecosystem or similar non-real-money environments.
+
+4. Limitations of Liability
+We are not responsible for:
+
+Any lost digital items.
+
+Any damages from using or misusing the bot.
+
+Any downtime, bugs, or data loss.
+
+5. Changes to Terms
+We may update these terms at any time. Continued use of the bot after changes means you accept the new terms.

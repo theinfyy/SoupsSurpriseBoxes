@@ -1,0 +1,38 @@
+🔐 Soup’s Mystery Boxes – Privacy Policy
+Effective Date: July 20, 2025
+
+We care about your privacy. This policy explains what we collect and how we use it.
+
+1. What We Collect
+Your Discord user ID and username (to track purchases and cooldowns).
+
+Timestamps of purchases and interactions.
+
+Channel and message IDs for bot operations.
+
+We do not collect or store:
+
+Direct messages
+
+Email addresses
+
+IP addresses
+
+Sensitive personal data
+
+2. How We Use Your Data
+To manage box purchases and enforce cooldowns.
+
+To display real-time stock and logs for admins.
+
+To improve and maintain the bot’s functionality.
+
+3. Data Sharing
+We do not share your data with third parties.
+
+4. Data Retention
+Data is stored in a local SQLite database. Data is retained as long as needed for bot functionality. You can request your data be removed by contacting a server admin.
+
+5. Contact
+For questions about this policy or data removal requests, please contact a server administrator.
+
